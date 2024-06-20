@@ -14,7 +14,7 @@ layout: default
             <li>Conferences</li>
             <li>Executive Committee</li>
             <li>Membership</li>
-            <li>Address</li>
+            <li>Contact</li>
         </ul>
     </div>
 </header>
